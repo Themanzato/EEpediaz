@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180420387971",
+    "project_id": "zomber-6307f",
+    "storage_bucket": "zomber-6307f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180420387971:android:3e88edd9e2d1d172a627b6",
+        "android_client_info": {
+          "package_name": "com.example.eepedia_z"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4DkJt7wP89BQwyxSUby2ANRVKhqzqeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
